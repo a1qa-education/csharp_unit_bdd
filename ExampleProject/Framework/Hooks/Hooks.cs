@@ -1,6 +1,6 @@
 ﻿using Aquality.Selenium.Browsers;
 using Aquality.Selenium.Core.Utilities;
-using TechTalk.SpecFlow;
+using Reqnroll;
 
 namespace ExampleProject.Framework.Hooks
 {

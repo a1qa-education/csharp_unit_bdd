@@ -1,5 +1,5 @@
 ﻿using Aquality.Selenium.Browsers;
-using TechTalk.SpecFlow;
+using Reqnroll;
 
 namespace ExampleProject.Framework.StepDefinitions
 {

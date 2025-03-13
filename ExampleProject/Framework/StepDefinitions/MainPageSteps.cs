@@ -1,5 +1,5 @@
 ﻿using ExampleProject.Framework.Pages;
-using TechTalk.SpecFlow;
+using Reqnroll;
 
 namespace ExampleProject.Framework.StepDefinitions
 {

@@ -1,6 +1,6 @@
 ﻿using ExampleProject.Framework.Pages;
 using NUnit.Framework;
-using TechTalk.SpecFlow;
+using Reqnroll;
 using ExampleProject.Framework.Utils;
 
 namespace ExampleProject.Framework.StepDefinitions
